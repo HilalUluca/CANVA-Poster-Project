@@ -1,7 +1,7 @@
 # CANVA-Poster-Project
 
-This repository contains a poster design created for a cartoon workshop.  
-The poster was designed using **Canva** and aims to promote the event in a simple and eye-catching way.  
+This repository contains a posters design created for a cartoon workshop.  
+The posters were designed using **Canva** and aims to promote the event in a simple and eye-catching way.  
 
 ## Tools Used
 - Canva (design and layout)
